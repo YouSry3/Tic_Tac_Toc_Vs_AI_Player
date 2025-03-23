@@ -9,8 +9,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
+   git clone https://github.com/mohamedsherif301/Tic_Tac_Toc_By_AI_Player.git
+   cd Tic_Tac_Toc_By_AI_Player
    ```
 
 2. **Run the game**
